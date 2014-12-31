@@ -1,0 +1,9 @@
+Original: $200
+Aug.26	--50	Balance:250
+Sept.2	--100	Balance:350
+Sept.10	-30	Balance:320
+Oct.18	-199	Balance:121
+Nov.8	-60	Balance:61
+Nov.11	--50	Balance:111
+Nov.25	--50	Balance:161
+Dec.1	-25	Balance:136

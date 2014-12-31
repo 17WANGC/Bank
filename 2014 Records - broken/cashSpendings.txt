@@ -1,0 +1,26 @@
+Original: $300
+Sept.5	-9	Balance:291
+Sept.6	-55	Balance:236
+Sept.9	-8	Balance:228
+Sept.13	-37	Balance:191
+Sept.16	SB Withdraw	+100	Balance:291
+Sept.20	-65	Balance:226
+Sept.21	-10	Balance:216
+Sept.23	SB Withdraw	+100	Balance:316
+Sept.27	-28	Balance:288
+Oct.1	-21	Balance:267
+Oct.4	-57	Balance:210
+Oct.6	SB Withdraw	+100	Balance:310
+Oct.18	-18	Balance:292
+Oct.22	-6	Balance:286
+Oct.25	-3	Balance:283
+Oct.29	-7	Balance:276
+Oct.31	-16	Balance:260
+Nov.2	-23	Balance:237
+Nov.8	--10	Balance:247
+Nov.9	-4	Balance:243
+Nov.19	SB Withdraw	+-6	Balance:237 **********************BUG
+Nov.21	SB Withdraw	+50	Balance:287
+Nov.21	-38	Balance:249
+Nov.22	-25	Balance:224
+Nov.30	-4	Balance:220 

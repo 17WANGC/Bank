@@ -1,0 +1,6 @@
+Original: $600
+Sept.16	-100	Balance:500
+Sept.23	-100	Balance:400
+Oct.6	-100	Balance:300
+Nov.19	--6	Balance:306
+Nov.21	-50	Balance:256
